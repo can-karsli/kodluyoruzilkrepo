@@ -1,6 +1,8 @@
 # kodluyoruzilkrepo
 Kodluyoruz Eğitimi kapsamında açtığım ilk repo
 
+patika linkim: https://app.patika.dev/cankarsli
+
 ## Installation
 ------------
 
